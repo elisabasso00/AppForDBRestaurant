@@ -1,0 +1,27 @@
+#Burger   
+Chicken  Burger                        RM4.99 
+Fish  Burger                           RM3.99 
+Double Chicken Burger                  RM6.99 
+Grilled Chicken                        RM3.50
+Fried Chicken                          RM4.50
+
+#Drink  
+Tea                                    RM1.99 
+Coffee                                 RM2.99 
+Chai Latte                             RM2.50 
+Cappucino                              RM3.00
+Coke                                   RM3.00 
+ 
+#Side 
+Freedom Fries                          RM0.99
+Salad                                  RM2.50
+Mixed Vegetables                       RM3.00
+Plain Rice                             RM2.00
+French Fries                           RM2.50                    
+ 
+#Appetizer 
+Chocolate cake                         RM1.50 
+Sundae Vanilla                         RM1.00
+Rainbow cake                           RM3.00
+Red Velvet cake                        RM3.00
+Muffin                                 RM2.50
